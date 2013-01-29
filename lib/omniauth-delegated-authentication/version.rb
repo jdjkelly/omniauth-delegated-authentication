@@ -1,5 +1,5 @@
 module OmniAuth
   module DelegatedAuthentication
-    VERSION = "0.2"
+    VERSION = "0.1"
   end
 end

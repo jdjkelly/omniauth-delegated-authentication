@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'omniauth-delegated-authentication'
-  s.version     = '0.2'
+  s.version     = '0.1'
   s.date        = '2013-01-29'
   s.summary     = "Delegated Authentication protocol developer strategy for Omniauth"
   s.description = s.summary
